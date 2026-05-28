@@ -2,7 +2,6 @@
 Data cleaning and analysis of government fleet inventory using Excel/SQL-style pivot analysis.
 ------------------------------------------------------------------------------------------------------
 
-! Overview
 This project was completed as part of the IBM Data Analyst certification. 
 The objective was to clean raw government fleet equipment data and perform structured analysis using Excel PivotTables.
 
