@@ -10,7 +10,8 @@ The workflow followed a real-world data analyst process:
 **Data Cleaning → Data Formatting → Pivot Table Analysis → Insights Generation**
 -----------------------------------------------------------------------------------------------------
 
-! Dataset
+**Dataset**
+
 The dataset contains government fleet equipment records, including:
 - Department information
 - Equipment class/type
@@ -21,7 +22,8 @@ Two versions:
 - Cleaned, processed, and analysis-ready data
 -----------------------------------------------------------------------------------------------------
 
-! Data Cleaning Process 
+**Data Cleaning Process**
+
 The following steps were performed to clean the dataset:
 
 Part 1
@@ -76,13 +78,13 @@ Pivot Table 3
 ----------------------------------------------------------------------------------------------------------
 
 
-Key Insights
+**Key Insights**
 - Equipment distribution varies significantly across departments
 - The transportation category is the most dominant classification
 - CUV equipment shows concentrated usage across specific departments
 
 
-Tools Used
+**Tools Used**
 - Microsoft Excel
 - Pivot Tables
 - Flash Fill
@@ -91,5 +93,5 @@ Tools Used
 - Data Cleaning Techniques
 
 
-Conclusion
+**Conclusion**
 This project demonstrates end-to-end data cleaning and structured analysis using Excel. It reflects real-world data analyst tasks, including data preparation, transformation, and pivot-based reporting.
